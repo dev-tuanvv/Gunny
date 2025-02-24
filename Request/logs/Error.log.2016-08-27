@@ -1,0 +1,589 @@
+2016-08-27 17:02:36,289 - [12] - ERROR - Tank.Request.PlayerManager - trungbao|a63f6aac-55c1-45c7-b976-d3fd9ce8b1fb
+2016-08-27 17:03:50,903 - [13] - ERROR - Tank.Request.PlayerManager - trungbao|6469525e-1cb0-4c60-b412-383e7e546e50
+2016-08-27 17:06:41,035 - [15] - ERROR - Tank.Request.PlayerManager - trungbao|52385368-f866-49fa-8db0-75fa527ec9c7
+2016-08-27 17:08:50,608 - [15] - ERROR - Tank.Request.PlayerManager - trungbao2|279a4d10-b989-41c2-8699-2d72253c0c35
+2016-08-27 17:09:01,575 - [14] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:09:01,588 - [8] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:09:06,965 - [14] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:09:09,402 - [15] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:12:30,623 - [20] - ERROR - Tank.Request.PlayerManager - trungbao|e4ac0a92-f7c6-4957-8d23-7b4717c3b1e5
+2016-08-27 17:12:38,071 - [18] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:12:38,086 - [20] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:12:39,047 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.GetFriendsAll(Int32 UserID) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 2727
+2016-08-27 17:12:40,762 - [23] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:12:41,609 - [20] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:15:48,838 - [18] - ERROR - Tank.Request.PlayerManager - trungbao2|5357df64-718f-49e4-ba97-1e0dd337181f
+2016-08-27 17:15:52,953 - [20] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:15:53,620 - [23] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:15:54,867 - [18] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:15:55,555 - [20] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:17:15,847 - [28] - ERROR - Tank.Request.PlayerManager - trungbao2|806ca083-14b6-452d-b3aa-1f707807f8ff
+2016-08-27 17:17:24,941 - [32] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:17:25,788 - [28] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:17:26,501 - [10] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:18:54,767 - [31] - ERROR - Tank.Request.PlayerManager - trungbao|1913aaa1-92c3-401c-9103-f84dcde118dc
+2016-08-27 17:19:01,354 - [31] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:19:01,366 - [30] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:19:02,813 - [29] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.GetFriendsAll(Int32 UserID) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 2727
+2016-08-27 17:19:04,785 - [29] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:19:05,498 - [31] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:21:11,133 - [31] - ERROR - Bussiness.LanguageMgr - Language file : D:\OneDrive\Gunny Project\GUNNY 3.4 BASE\Tank.Request\bin\Languages\Language-vn.txt not found !
+2016-08-27 17:21:11,133 - [37] - ERROR - Bussiness.LanguageMgr - Language file : D:\OneDrive\Gunny Project\GUNNY 3.4 BASE\Tank.Request\bin\Languages\Language-vn.txt not found !
+2016-08-27 17:21:11,216 - [39] - ERROR - Tank.Request.PlayerManager - trungbao3|b3a08507-2641-4394-8e44-76dd8f386700
+2016-08-27 17:21:32,940 - [37] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:23:47,235 - [42] - ERROR - Tank.Request.PlayerManager - trungbao3|lmnjki
+2016-08-27 17:24:09,319 - [42] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:24:13,581 - [32] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:25:12,320 - [37] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:25:15,413 - [32] - ERROR - Tank.Request.PlayerManager - trungbao3|116aee85-a788-4127-a70c-6d22dfa71eda
+2016-08-27 17:25:21,147 - [32] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:25:24,824 - [37] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:25:25,891 - [42] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:30:10,742 - [42] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:32:57,487 - [26] - ERROR - Tank.Request.PlayerManager - trungbao3|7ccf73c5-6d78-452b-85f8-a8756c1fabf8
+2016-08-27 17:33:04,218 - [11] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:33:05,574 - [26] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:33:56,932 - [26] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:33:57,725 - [21] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:35:08,345 - [26] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:40:08,321 - [50] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:45:08,320 - [60] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:47:25,392 - [62] - ERROR - Tank.Request.PlayerManager - trungbao|4a42977a-2c37-4861-b7d9-9c5242417735
+2016-08-27 17:47:27,234 - [64] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:47:27,280 - [61] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.GetFriendsAll(Int32 UserID) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 2727
+2016-08-27 17:47:27,949 - [64] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:47:28,061 - [61] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:47:54,181 - [59] - ERROR - Tank.Request.PlayerManager - trungbao|d9d7581d-c97a-4f3d-b377-375670c3e0e6
+2016-08-27 17:48:51,233 - [63] - ERROR - Tank.Request.PlayerManager - trungbao3|183b8e6d-bb90-4f3a-8988-0d2d0c74763f
+2016-08-27 17:48:53,010 - [64] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:48:53,509 - [61] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:48:53,616 - [62] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:50:08,327 - [62] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:54:43,660 - [68] - ERROR - Tank.Request.PlayerManager - trungbao3|f58a9b96-14b7-4673-9dd7-8094e5065288
+2016-08-27 17:54:45,404 - [75] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:54:45,929 - [73] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 17:54:46,016 - [68] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 17:55:08,324 - [73] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 17:55:08,929 - [68] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 17:58:11,882 - [74] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 18:00:08,325 - [77] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:03:56,890 - [74] - ERROR - Tank.Request.PlayerManager - trungbao|849b45d8-4418-40e5-98ab-244cb0207ead
+2016-08-27 18:04:00,322 - [74] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 18:04:00,340 - [77] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 18:04:00,385 - [66] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.GetFriendsAll(Int32 UserID) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 2727
+2016-08-27 18:04:01,046 - [72] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 18:04:01,185 - [77] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 18:04:30,697 - [74] - ERROR - Tank.Request.PlayerManager - trungbao|268867fc-f9f1-4b59-a559-9e74e823dfc1
+2016-08-27 18:04:32,575 - [74] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 18:04:33,054 - [67] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.GetFriendsAll(Int32 UserID) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 2727
+2016-08-27 18:04:36,294 - [72] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 18:04:36,845 - [66] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 18:05:08,335 - [67] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:08:20,133 - [64] - ERROR - Tank.Request.PlayerManager - trungbao3|93c14373-2376-414f-a87b-6ff9facdeabf
+2016-08-27 18:08:21,955 - [65] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 18:08:22,386 - [64] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 18:08:22,496 - [57] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-08-27 18:08:30,419 - [65] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 18:10:08,344 - [65] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:15:08,397 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:20:08,352 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:25:08,386 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:30:08,368 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:35:08,364 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:40:08,372 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:45:08,367 - [61] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:50:08,369 - [51] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 18:55:08,367 - [51] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:00:08,387 - [51] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:05:08,391 - [51] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:10:08,370 - [70] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:15:08,404 - [70] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:20:08,398 - [70] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:25:08,415 - [70] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:30:08,425 - [70] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:35:08,420 - [35] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-27 19:40:08,427 - [19] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160827.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64

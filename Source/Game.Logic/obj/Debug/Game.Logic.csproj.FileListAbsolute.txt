@@ -1,0 +1,255 @@
+D:\workspace\Server\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\workspace\Server\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+D:\workspace\Server\Game.Logic\bin\Debug\Game.Logic.dll
+D:\workspace\Server\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\workspace\Server\Game.Logic\bin\Debug\Bussiness.dll
+D:\workspace\Server\Game.Logic\bin\Debug\log4net.dll
+D:\workspace\Server\Game.Logic\bin\Debug\LuaInterface.dll
+D:\workspace\Server\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\workspace\Server\Game.Logic\bin\Debug\lua51.dll
+D:\workspace\Server\Game.Logic\bin\Debug\zlib.net.dll
+D:\workspace\Server\Game.Logic\bin\Debug\log4net.xml
+D:\workspace\Server\Game.Logic\bin\Debug\Bussiness.pdb
+D:\workspace\Server\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\workspace\Server\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\Game.Logic\obj\Debug\Game.Logic.dll
+D:\workspace\Server\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\workspace\Server\Game.Logic\bin\Debug\Game.Base.dll
+D:\workspace\Server\Game.Logic\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\obj\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\obj\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\LuaInterface.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\lua51.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\LuaInterface.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\lua51.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\obj\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Logic\obj\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\LuaInterface.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\lua51.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\obj\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\obj\Debug\Game.Logic.pdb
+E:\Source 3.0\Game.Logic\bin\Debug\Languages\Language-vn.txt
+E:\Source 3.0\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+E:\Source 3.0\Game.Logic\bin\Debug\Game.Logic.dll
+E:\Source 3.0\Game.Logic\bin\Debug\Game.Logic.pdb
+E:\Source 3.0\Game.Logic\bin\Debug\Bussiness.dll
+E:\Source 3.0\Game.Logic\bin\Debug\Game.Base.dll
+E:\Source 3.0\Game.Logic\bin\Debug\log4net.dll
+E:\Source 3.0\Game.Logic\bin\Debug\LuaInterface.dll
+E:\Source 3.0\Game.Logic\bin\Debug\SqlDataProvider.dll
+E:\Source 3.0\Game.Logic\bin\Debug\zlib.net.dll
+E:\Source 3.0\Game.Logic\bin\Debug\lua51.dll
+E:\Source 3.0\Game.Logic\bin\Debug\Bussiness.pdb
+E:\Source 3.0\Game.Logic\bin\Debug\Game.Base.pdb
+E:\Source 3.0\Game.Logic\bin\Debug\SqlDataProvider.pdb
+E:\Source 3.0\Game.Logic\bin\Debug\log4net.xml
+E:\Source 3.0\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+E:\Source 3.0\Game.Logic\obj\Debug\Game.Logic.dll
+E:\Source 3.0\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\Work\Source 3\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Source 3\Game.Logic\obj\Debug\Game.Logic.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\Work\Source 3\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+D:\Work\Source 3\Game.Logic\bin\Debug\Game.Logic.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\Work\Source 3\Game.Logic\bin\Debug\Bussiness.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\Game.Base.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\log4net.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\LuaInterface.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\zlib.net.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\lua51.dll
+D:\Work\Source 3\Game.Logic\bin\Debug\Bussiness.pdb
+D:\Work\Source 3\Game.Logic\bin\Debug\Game.Base.pdb
+D:\Work\Source 3\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\Work\Source 3\Game.Logic\bin\Debug\log4net.xml
+D:\Work\Source 3\Game.Logic\obj\Debug\Game.Logic.pdb
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Languages\Language-vn.txt
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Game.Logic.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Game.Logic.pdb
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Bussiness.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Game.Base.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\log4net.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\LuaInterface.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\SqlDataProvider.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\zlib.net.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\lua51.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Bussiness.pdb
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\Game.Base.pdb
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\SqlDataProvider.pdb
+E:\dev Gunny 3.0\Source 3\Game.Logic\bin\Debug\log4net.xml
+E:\dev Gunny 3.0\Source 3\Game.Logic\obj\Debug\Game.Logic.dll
+E:\dev Gunny 3.0\Source 3\Game.Logic\obj\Debug\Game.Logic.pdb
+E:\dev Gunny 3.0\Source 3\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\lua51.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Logic\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\lua51.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\lua51.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.csprojAssemblyReference.cache
+C:\Users\Billy\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\lua51.dll
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.dll.config
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Logic\bin\Debug\log4net.xml
+C:\Users\Billy\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.csproj.CopyComplete
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\log4net.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\lua51.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\May06\Desktop\gunny project\Game.Logic\bin\Debug\log4net.xml
+C:\Users\May06\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\May06\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\May06\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\log4net.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\lua51.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\HungML\Desktop\gunny project\Game.Logic\bin\Debug\log4net.xml
+C:\Users\HungML\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\HungML\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\HungML\Desktop\gunny project\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\19072018\gunny project\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\19072018\gunny project\Game.Logic\bin\Debug\Languages\Language-zh_cn.txt
+D:\19072018\gunny project\Game.Logic\bin\Debug\Game.Logic.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\19072018\gunny project\Game.Logic\bin\Debug\Bussiness.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\Game.Base.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\log4net.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\LuaInterface.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\zlib.net.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\lua51.dll
+D:\19072018\gunny project\Game.Logic\bin\Debug\Bussiness.pdb
+D:\19072018\gunny project\Game.Logic\bin\Debug\Game.Base.pdb
+D:\19072018\gunny project\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\19072018\gunny project\Game.Logic\bin\Debug\log4net.xml
+D:\19072018\gunny project\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+D:\19072018\gunny project\Game.Logic\obj\Debug\Game.Logic.dll
+D:\19072018\gunny project\Game.Logic\obj\Debug\Game.Logic.pdb

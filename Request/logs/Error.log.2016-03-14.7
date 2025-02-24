@@ -1,0 +1,20 @@
+2016-03-14 13:44:56,457 - [9] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\5.9\source 5.5\sourse5.5\Bussiness\Bussiness.Interface\BaseInterface.cs:line 266
+2016-03-14 13:45:00,378 - [10] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-03-14 13:45:00,486 - [9] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-03-14 13:45:00,984 - [12] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-03-14 13:46:58,506 - [12] - ERROR - Bussiness.BaseBussiness - SP_GetPlayerByUserName
+System.InvalidOperationException: Invalid attempt to read when no data is present.
+   at System.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at System.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn)
+   at System.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at System.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at Bussiness.PlayerBussiness.InitPlayerInfo(SqlDataReader reader) in e:\Gunny\Server\5.9\source 5.5\sourse5.5\Bussiness\Bussiness\PlayerBussiness.cs:line 1241
+   at Bussiness.PlayerBussiness.GetPlayerByUserName(String UserName) in e:\Gunny\Server\5.9\source 5.5\sourse5.5\Bussiness\Bussiness\PlayerBussiness.cs:line 6530
+2016-03-14 13:47:04,247 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.SendMailAndItem(String title, String content, Int32 userID, Int32 gold, Int32 money, String param) in e:\Gunny\Server\5.9\source 5.5\sourse5.5\Bussiness\Bussiness\PlayerBussiness.cs:line 2479
+2016-03-14 13:47:42,388 - [9] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-03-14 13:48:20,739 - [12] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !

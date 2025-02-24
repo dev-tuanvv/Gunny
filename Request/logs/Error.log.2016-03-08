@@ -1,0 +1,19 @@
+2016-03-08 23:41:43,400 - [7] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\5.9\source 5.5\sourse5.5\Bussiness\Bussiness.Interface\BaseInterface.cs:line 238
+2016-03-08 23:42:42,643 - [5] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.Close()
+   at System.ServiceModel.ClientBase`1.System.IDisposable.Dispose()
+   at Tank.Request.ServerList.ProcessRequest(HttpContext context) in e:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\ServerList.cs:line 38
+2016-03-08 23:43:58,256 - [7] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-03-08 23:48:13,783 - [16] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !

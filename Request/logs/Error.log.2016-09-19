@@ -1,0 +1,96 @@
+2016-09-19 18:28:53,821 - [16] - ERROR - Tank.Request.PlayerManager - trungbao|dc24a5cb-65ae-4cb8-beb7-89e61adb7ccb
+2016-09-19 18:29:10,751 - [12] - ERROR - Tank.Request.PlayerManager - trungbao|5754b353-7c73-42f4-a7ac-9f54a6b2783f
+2016-09-19 18:31:00,437 - [8] - ERROR - Tank.Request.PlayerManager - trungbao|9c519b74-c6f1-4d59-befd-d227d7d09f30
+2016-09-19 18:31:03,311 - [7] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-19 18:31:04,413 - [12] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-09-19 18:31:04,442 - [8] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-09-19 18:31:37,579 - [17] - ERROR - Tank.Request.PlayerManager - trungbao|3bf05026-4db6-45fa-b946-10a1c932da8a
+2016-09-19 18:31:39,246 - [8] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-19 18:31:39,682 - [17] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-09-19 18:31:39,871 - [11] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-09-19 18:34:34,489 - [22] - ERROR - Tank.Request.PlayerManager - trungbao2|800d8478-1f80-497a-91a9-c44fbe5e96f6
+2016-09-19 18:34:38,059 - [17] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-19 18:34:38,060 - [18] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-19 18:34:41,862 - [24] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-09-19 18:34:42,394 - [18] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-09-19 18:41:34,893 - [47] - ERROR - Tank.Request.PlayerManager - trungbao|1ec6a691-99c4-49f2-85c9-6f167dce2d86
+2016-09-19 18:41:36,690 - [35] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-19 18:41:37,139 - [53] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-09-19 18:41:37,338 - [47] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-09-19 18:46:38,000 - [64] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at Tank.Request.ServerList.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\ServerList.cs:line 37

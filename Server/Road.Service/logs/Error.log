@@ -1,0 +1,5 @@
+17:26:07,589 - [MAIN] - ERROR - Game.Base.BaseServer - InitSocket
+System.Net.Sockets.SocketException (0x80004005): The requested address is not valid in its context
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Game.Base.BaseServer.InitSocket(IPAddress ip, Int32 port)

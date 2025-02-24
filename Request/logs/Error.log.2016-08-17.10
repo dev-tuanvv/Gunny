@@ -1,0 +1,17 @@
+2016-08-17 22:20:49,271 - [11] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness.Interface\BaseInterface.cs:line 280
+2016-08-17 22:21:07,554 - [13] - ERROR - Tank.Request.PlayerManager - trungbao|84901dca-e16b-480f-a844-35a54bc55a7f
+2016-08-17 22:21:55,532 - [12] - ERROR - Tank.Request.PlayerManager - trungbao|63c5591f-ae37-406c-a724-238dda7e4018
+2016-08-17 22:27:14,455 - [7] - ERROR - Tank.Request.PlayerManager - trungbao|20f91d31-0e2e-4720-90ca-ca2c93da95d9
+2016-08-17 22:29:52,154 - [11] - ERROR - Tank.Request.PlayerManager - trungbao|03687afb-a8ce-4cb5-8a56-a3a38568b0c1
+2016-08-17 22:31:22,784 - [19] - ERROR - Tank.Request.PlayerManager - trungbao|c041a63a-88ea-4e9f-b54a-7693edc50c0c
+2016-08-17 22:32:34,043 - [28] - ERROR - Tank.Request.PlayerManager - trungbao|01dc7b9e-bff6-4e50-b917-7e6c685513a2
+2016-08-17 22:32:58,295 - [28] - ERROR - Tank.Request.PlayerManager - trungbao|62b33172-78e0-446d-94c2-e8386d624789
+2016-08-17 22:34:25,851 - [28] - ERROR - Tank.Request.PlayerManager - trungbao|5cbdec27-7121-4f1a-9b9f-78540263aa9e
+2016-08-17 22:37:27,109 - [24] - ERROR - Tank.Request.PlayerManager - trungbao|13866ae2-9507-449a-b996-1e6f1fe6dbc0
+2016-08-17 22:40:19,062 - [29] - ERROR - Tank.Request.PlayerManager - trungbao|2a7e5406-25fc-4370-a1a9-4e7e98db2cd7
+2016-08-17 22:41:15,490 - [20] - ERROR - Tank.Request.PlayerManager - trungbao|d2f53776-1054-49f9-8f1a-20737336d9e0
+2016-08-17 22:42:20,472 - [20] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 22:42:20,472 - [20] - ERROR - Tank.Request.Login - name:trungbao-pwd:d2f53776-1054-49f9-8f1a-20737336d9e0
+2016-08-17 22:42:55,500 - [18] - ERROR - Tank.Request.PlayerManager - trungbao|84c01840-dc1a-4309-8c3b-3fe6d6ecd939

@@ -1,0 +1,28 @@
+2016-06-29 13:06:02,465 - [12] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 13:07:27,582 - [12] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 13:36:12,686 - [27] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 13:59:53,225 - [28] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:01:22,078 - [45] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:04:37,863 - [51] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:04:37,871 - [51] - ERROR - Tank.Request.Login - User Login error
+System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   at System.Security.Cryptography.RSACryptoServiceProvider.DecryptKey(SafeKeyHandle pKeyContext, Byte[] pbEncryptedKey, Int32 cbEncryptedKey, Boolean fOAEP, ObjectHandleOnStack ohRetDecryptedKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   at Road.Flash.CryptoHelper.RsaDecryt2(RSACryptoServiceProvider rsa, String src) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Road.Flash\CryptoHelper.cs:line 63
+   at Tank.Request.Login.ProcessRequest(HttpContext context) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\Login.cs:line 37
+2016-06-29 14:06:39,238 - [7] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:12:01,991 - [32] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:18:46,952 - [33] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:27:19,237 - [40] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:37:25,464 - [33] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:42:45,798 - [34] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 14:58:42,359 - [51] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 15:26:45,908 - [40] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 15:30:39,556 - [33] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 16:17:44,573 - [26] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 16:20:29,730 - [16] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 16:24:28,002 - [41] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 16:32:16,083 - [9] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-29 16:34:20,708 - [54] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !

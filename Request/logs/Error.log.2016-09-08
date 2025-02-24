@@ -1,0 +1,31 @@
+2016-09-08 19:27:42,092 - [5] - ERROR - Tank.Request.PlayerManager - trungbao|356668d4-3d5c-4fed-b078-1981a4190ef7
+2016-09-08 19:27:46,784 - [8] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-08 19:27:47,912 - [11] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-09-08 19:27:48,019 - [7] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22
+2016-09-08 19:28:05,342 - [11] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-09-08 19:29:56,788 - [7] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24

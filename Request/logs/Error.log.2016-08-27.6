@@ -1,0 +1,25 @@
+2016-08-27 02:17:15,884 - [11] - ERROR - Tank.Request.PlayerManager - trungbao|44a804d6-8188-4af0-bc6c-62f35b3d5f9b
+2016-08-27 02:17:18,880 - [11] - ERROR - Tank.Request.LogTime - ConsortiaAllyList
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.LogTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\LogTime.cs:line 24
+2016-08-27 02:17:18,921 - [13] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.GetFriendsAll(Int32 UserID) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 2727
+2016-08-27 02:17:19,555 - [11] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.IMListLoad.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\IMListLoad.cs:line 24
+2016-08-27 02:17:20,472 - [13] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Value cannot be null.
+Parameter name: String
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\AdvanceQuestTime.cs:line 22

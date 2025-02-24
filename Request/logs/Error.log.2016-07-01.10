@@ -1,0 +1,1070 @@
+2016-07-01 09:02:54,828 - [9] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness.Interface\BaseInterface.cs:line 266
+2016-07-01 09:04:17,817 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,818 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,819 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,819 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,820 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,820 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,820 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,820 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,821 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,821 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,821 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,822 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,822 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,822 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,823 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,823 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,823 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,823 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,824 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,824 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,824 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,824 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,825 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,825 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,825 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,825 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,826 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,826 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,826 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,826 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,826 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,827 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,827 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,827 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,827 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,827 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,828 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,828 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,828 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,828 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,828 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,829 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,829 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,829 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,829 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,829 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,829 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,830 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,830 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,830 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,830 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,830 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,831 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,831 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,831 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,832 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,832 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,833 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,833 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,833 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,833 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,834 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,834 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,834 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,834 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,835 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,835 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,835 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,836 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,836 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,836 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,836 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,837 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,837 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,837 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,837 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,837 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,838 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,838 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,838 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,838 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,839 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,839 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,839 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,839 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,839 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,840 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,840 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,840 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,840 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,840 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,841 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,841 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,841 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,841 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,841 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99
+2016-07-01 09:04:17,841 - [9] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: There is already an open DataReader associated with this Command which must be closed first.
+   at System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at SqlDataProvider.BaseClass.Sql_DbObject.GetReader(SqlDataReader& ResultDataReader, String ProcedureName, SqlParameter[] SqlParameters) in e:\Gunny\Server\GUN VIP VL\sourse5.5\SqlDataProvider\SqlDataProvider.BaseClass\Sql_DbObject.cs:line 328
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 99

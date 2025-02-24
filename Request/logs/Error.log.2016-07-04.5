@@ -1,0 +1,21 @@
+2016-07-04 09:29:20,689 - [7] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.Close()
+   at System.ServiceModel.ClientBase`1.System.IDisposable.Dispose()
+   at Tank.Request.ServerList.ProcessRequest(HttpContext context) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\ServerList.cs:line 38
+2016-07-04 09:32:09,093 - [11] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-04 09:36:18,032 - [21] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-04 09:36:18,035 - [21] - ERROR - Tank.Request.Login - qqqqqqqq: 07718d4b-7822-47b5-807b-440fe10c8938chinhaus=
+2016-07-04 09:37:01,316 - [19] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-04 09:39:53,538 - [20] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-04 10:06:15,377 - [17] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-04 10:10:01,520 - [55] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !

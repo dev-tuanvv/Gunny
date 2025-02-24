@@ -1,0 +1,39 @@
+﻿namespace Game.Server.Packets
+{
+    using System;
+
+    public enum ConsortiaPackageType
+    {
+        BOSS_OPEN_CLOSE = 0x1f,
+        BUY_BADGE = 0x1c,
+        CONSORTIA_APPLY_STATE = 7,
+        CONSORTIA_BANCHAT_UPDATE = 0x10,
+        CONSORTIA_BOSS_INFO = 30,
+        CONSORTIA_CREATE = 1,
+        CONSORTIA_CHAIRMAN_CHAHGE = 0x13,
+        CONSORTIA_CHAT = 20,
+        CONSORTIA_DESCRIPTION_UPDATE = 14,
+        CONSORTIA_DISBAND = 2,
+        CONSORTIA_DUTY_DELETE = 9,
+        CONSORTIA_DUTY_UPDATE = 10,
+        CONSORTIA_EQUIP_CONTROL = 0x18,
+        CONSORTIA_INVITE = 11,
+        CONSORTIA_INVITE_DELETE = 13,
+        CONSORTIA_INVITE_PASS = 12,
+        CONSORTIA_LEVEL_UP = 0x15,
+        CONSORTIA_PLACARD_UPDATE = 15,
+        CONSORTIA_RENEGADE = 3,
+        CONSORTIA_RICHES_OFFER = 6,
+        CONSORTIA_TASK_RELEASE = 0x16,
+        CONSORTIA_TRYIN = 0,
+        CONSORTIA_TRYIN_DEL = 5,
+        CONSORTIA_TRYIN_PASS = 4,
+        CONSORTIA_USER_GRADE_UPDATE = 0x12,
+        CONSORTIA_USER_REMARK_UPDATE = 0x11,
+        CONSORTION_MAIL = 0x1d,
+        DONATE = 0x17,
+        POLL_CANDIDATE = 0x19,
+        SKILL_SOCKET = 0x1a
+    }
+}
+

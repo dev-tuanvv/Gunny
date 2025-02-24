@@ -1,0 +1,10 @@
+2016-08-17 23:55:54,841 - [11] - ERROR - Tank.Request.PlayerManager - trungbao|30f7c5cc-bf3e-457e-8389-d75b3c7ec0bd
+2016-08-17 23:56:04,432 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.LoginGame(String username, Int32& isFirst, Boolean& isExist, Boolean& isError, Boolean firstValidate, DateTime& forbidDate, String nickname) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 890
+2016-08-17 23:56:05,752 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.ActivePlayer(PlayerInfo& player, String userName, String passWord, Boolean sex, Int32 gold, Int32 money, String IP, String site) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 540
+2016-08-17 23:56:29,309 - [13] - ERROR - Tank.Request.PlayerManager - trungbao|72959200-c8f5-4c68-af3d-a83edfba61c3
+2016-08-17 23:59:57,071 - [12] - ERROR - Tank.Request.PlayerManager - trungbao|0e029578-c673-4e0c-b7ea-153099203958
+2016-08-17 23:59:57,071 - [12] - ERROR - Tank.Request.Login - name:trungbao-pwd:111111

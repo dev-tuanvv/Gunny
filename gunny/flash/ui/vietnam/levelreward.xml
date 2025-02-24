@@ -1,0 +1,77 @@
+﻿<rewards>
+	<reward level="2">
+			<rewardItem sort="1" title="Tính năng phòng game:" content="Nơi tạo phòng mặc sức chiến đấu thử thách" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vật phẩm:" content="" items="7009,1120081|7009,1120071"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được áo bất kỳ:" content="" items="5229,5242,5243,5247|5106,5103,5163,5180"/>
+	</reward>
+	<reward level="3">
+			<rewardItem sort="1" title="Tính năng túi:" content="Lưu trữ vũ khí,trang bị, tiền bạc" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được đạo cụ và vũ khí:" content="" items="10003,10024|10003,10024"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được tóc bất kỳ:" content="" items="|"/>
+	</reward>
+	<reward level="4">
+			<rewardItem sort="1" title="Nhiệm vụ nhận được vật phẩm:" content="" items="10001,10007,10012,10009|10001,10007,10012,10009"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được kính bất kỳ:" content="" items="10025|10025"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được nón bất kỳ:" content="" items="3237,3214,3236,3235|3129,3110,3107,3150"/>
+	</reward>
+	<reward level="5">
+			<rewardItem sort="1" title="Tính năng phòng kết bạn:" content="Đến đây bạn có thể kết bạn rất nhiều" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vật phẩm:" content="" items="10001,10007|10001,10007"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được cánh và nhẫn bất kỳ:" content="" items="1211,1203,1217,1252|1112,1137,1144,1189"/>
+	</reward>
+	<reward level="6">
+			<rewardItem sort="1" title="Tính năng phòng sư đồ:" content="Bái sư thành công có thể tăng cấp nhanh và nhận được nhiều phần thưởng" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vật phẩm và bao tay bất kỳ:" content="" items="9002,9005|9002,9005"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được bất kỳ mặt:" content="" items="2204,2207,2221,2223|2104,2123,2126,2127"/>
+	</reward>
+	<reward level="7">
+			<rewardItem sort="1" title="Tính năng guild:" content="Gia nhập guild có rất nhiều lợi ích, hãy thử xem nhé." items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vũ khí và đạo cụ:" content="" items="10006,10005,10004|10006,10005,10004"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được mắt bất kỳ:" content="" items="6208,6213,6225,6232|6112,6122,6114,6118"/>
+	</reward>
+	<reward level="8">
+			<rewardItem sort="1" title="Tính năng ải viễn chinh: " content=" Đánh quái qua ải,phần thưởng vô cùng phong phú" items="|"/>
+			<rewardItem sort="2" title="Tính năng tiệm rèn:" content="Nơi tăng cường sức mạnh của vũ khí, trang bị!" items="|"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11019,10015|11019,10015"/>
+	</reward>
+	<reward level="9">
+			<rewardItem sort="1" title="Tính năng shop:" content="Để đẹp hơn, mạnh hơn, nổi bật hơn, bạn hãy đến ngay đây!" items="|"/>
+			<rewardItem sort="2" title="Tính năng hợp thành:" content="Nâng cao thuộc tính tấn công, phòng ngự, nhanh nhẹn, may mắn" items="|"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11021,11001,11005,11009,11013|11021,11001,11005,11009,11013"/>
+	</reward>
+	<reward level="10">
+			<rewardItem sort="1" title="Dung luyện:" content="Dung luyện 4 vật phẩm cấp thấp lên cấp cao" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vũ khí bất kỳ:" content="" items="7006,7012|7006,7012"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11001,11022|11001,11022"/>
+	</reward>
+	<reward level="11">
+			<rewardItem sort="1" title="Khảm nạm:" content="Khảm nạm châu báu vào vũ khí để vũ khí mạnh hơn!" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được châu báu tấn công:" content="" items="311101|311101"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11021|11021"/>
+	</reward>
+	<reward level="12">
+			<rewardItem sort="1" title="Phòng cao thủ:" content="Đây là bảng xếp hạng các cao thủ,phải thường xuyên ghé thăm nhen!" items="|"/>
+			<rewardItem sort="2" title="Khiêu chiến:" content="Có thể thách thức khiêu chiến với bất kỳ đối thủ nào!" items="13144,13145|13144,13145"/>
+			<rewardItem sort="3" title="Túi quà 1 đồng:" content="Nạp 1 đồng nhận được túi quà trị giá 100 đồng!" items="13136,13137|13136,13137"/>
+	</reward>
+	<reward level="13">
+			<rewardItem sort="1" title="Tắm suối:" content="Lúc mệt mỏi có thể đến đây tắm suối, lại còn được lên kinh nghiệm nữa." items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vũ khí bất kỳ:" content="" items="7013,7014|7013,7014"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11022|11022"/>
+	</reward>
+	<reward level="14">
+			<rewardItem sort="1" title="Đấu giá:" content="Bạn có thể tìm thấy nhiều vật phẩm mà trong shop không có hoặc có thể đấu giá vật phẩm của mình!" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11014,11010|11014,11010"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="312101|312101"/>
+	</reward>
+	<reward level="15">
+			<rewardItem sort="1" title="Phòng tập:" content="Để nâng cao tay nghề, bạn không thể bỏ qua nơi này!" items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vũ khí bất kỳ:" content="" items="7016,7019|7016,7019"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11021|11021"/>
+	</reward>
+	<reward level="16">
+			<rewardItem sort="1" title="Hộp quà:" content="Nhận được quà lại còn được tăng điểm hấp dẫn, còn gì bằng." items="|"/>
+			<rewardItem sort="2" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11003,11007|11003,11007"/>
+			<rewardItem sort="3" title="Nhiệm vụ nhận được vật phẩm:" content="" items="11011,11015|11011,11015"/>
+	</reward>
+</rewards>

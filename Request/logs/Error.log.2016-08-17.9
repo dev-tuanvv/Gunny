@@ -1,0 +1,19 @@
+2016-08-17 22:43:55,711 - [11] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness.Interface\BaseInterface.cs:line 280
+2016-08-17 22:44:18,942 - [14] - ERROR - Tank.Request.PlayerManager - trungbao|6c09eb8f-717d-4b72-a530-1dad2d6a1051
+2016-08-17 22:44:52,263 - [13] - ERROR - Tank.Request.PlayerManager - trungbao|4623e544-65eb-468c-bc47-7e37931db3cc
+2016-08-17 22:46:54,135 - [11] - ERROR - Tank.Request.PlayerManager - trungbao|63b66413-9cce-4ea5-914d-e135e9431b0d
+2016-08-17 22:47:20,681 - [11] - ERROR - Tank.Request.Login - User Login error: (--1024--)System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   at System.Security.Cryptography.RSACryptoServiceProvider.DecryptKey(SafeKeyHandle pKeyContext, Byte[] pbEncryptedKey, Int32 cbEncryptedKey, Boolean fOAEP, ObjectHandleOnStack ohRetDecryptedKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   at Road.Flash.CryptoHelper.RsaDecryt2(RSACryptoServiceProvider rsa, String src) in e:\Gunny\Server\Gunny 3.4\Server\Road.Flash\CryptoHelper.cs:line 63
+   at Tank.Request.Login.ProcessRequest(HttpContext context) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\Login.cs:line 35
+2016-08-17 22:47:40,945 - [15] - ERROR - Tank.Request.PlayerManager - trungbao|1a93feeb-dd2c-4bda-bd9e-9857267c0ff8
+2016-08-17 22:50:27,547 - [16] - ERROR - Tank.Request.PlayerManager - trungbao|c204f74c-8476-4f1d-92b9-7006c5604c5d
+2016-08-17 22:51:19,826 - [16] - ERROR - Tank.Request.PlayerManager - trungbao|49ac2402-4261-4193-bbfb-0a44a2a81055
+2016-08-17 22:53:21,910 - [19] - ERROR - Tank.Request.PlayerManager - trungbao|c6eb10b6-f677-430e-82bf-bb85333d1b28
+2016-08-17 22:54:46,976 - [19] - ERROR - Tank.Request.PlayerManager - trungbao|bc6ac2ef-9913-4d7a-8623-335b6788a038
+2016-08-17 22:56:06,853 - [23] - ERROR - Tank.Request.PlayerManager - trungbao|2fd50104-9bcb-4762-a897-58e976dfdad7

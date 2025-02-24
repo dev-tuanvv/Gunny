@@ -1,0 +1,50 @@
+2016-08-17 23:28:50,267 - [9] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness.Interface\BaseInterface.cs:line 280
+2016-08-17 23:29:04,796 - [10] - ERROR - Tank.Request.PlayerManager - trungbao|b0e903f4-b4bc-48e2-b2fe-3afb6ce9496e
+2016-08-17 23:31:36,697 - [6] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:31:36,697 - [6] - ERROR - Tank.Request.Login - name:trungbao-pwd:b0e903f4-b4bc-48e2-b2fe-3afb6ce9496e
+2016-08-17 23:31:59,582 - [12] - ERROR - Tank.Request.PlayerManager - trungbao|10148079-0860-4a66-b461-36a19ed23347
+2016-08-17 23:36:49,248 - [12] - ERROR - Tank.Request.PlayerManager - trungbao|d497af5a-7543-4695-b22f-608a7707456e
+2016-08-17 23:37:49,559 - [15] - ERROR - Tank.Request.PlayerManager - trungbao|ba5ae617-048c-4202-a928-40d4f2786571
+2016-08-17 23:39:13,771 - [14] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:39:13,771 - [14] - ERROR - Tank.Request.Login - name:trungbao-pwd:ba5ae617-048c-4202-a928-40d4f2786571
+2016-08-17 23:39:27,434 - [14] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:39:27,434 - [14] - ERROR - Tank.Request.Login - name:trungbao-pwd:ba5ae617-048c-4202-a928-40d4f2786571
+2016-08-17 23:39:40,918 - [21] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:39:40,918 - [21] - ERROR - Tank.Request.Login - name:trungbao-pwd:ba5ae617-048c-4202-a928-40d4f2786571
+2016-08-17 23:39:54,928 - [14] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:39:54,928 - [14] - ERROR - Tank.Request.Login - name:trungbao-pwd:ba5ae617-048c-4202-a928-40d4f2786571
+2016-08-17 23:40:08,647 - [14] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:40:08,647 - [14] - ERROR - Tank.Request.Login - name:trungbao-pwd:ba5ae617-048c-4202-a928-40d4f2786571
+2016-08-17 23:40:26,076 - [19] - ERROR - Tank.Request.PlayerManager - trungbao|31179e4b-bbfe-4cfb-b350-83df18f3d99a
+2016-08-17 23:53:34,488 - [27] - ERROR - Tank.Request.PlayerManager - trungbao|554f3763-439e-48b3-b9b2-4502c5f0ea86
+2016-08-17 23:53:34,493 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.LoginGame(String username, Int32& isFirst, Boolean& isExist, Boolean& isError, Boolean firstValidate, DateTime& forbidDate, String nickname) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 890
+2016-08-17 23:53:34,583 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.ActivePlayer(PlayerInfo& player, String userName, String passWord, Boolean sex, Int32 gold, Int32 money, String IP, String site) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 540
+2016-08-17 23:53:39,350 - [29] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160817.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64
+2016-08-17 23:53:48,525 - [11] - ERROR - Tank.Request.PlayerManager - NOHAVE trungbao
+2016-08-17 23:53:48,526 - [11] - ERROR - Tank.Request.Login - name:trungbao-pwd:554f3763-439e-48b3-b9b2-4502c5f0ea86
+2016-08-17 23:54:07,342 - [32] - ERROR - Tank.Request.PlayerManager - trungbao|b87a2a21-f2fc-40d9-b9e3-2e1c1914636c
+2016-08-17 23:54:07,345 - [32] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.LoginGame(String username, Int32& isFirst, Boolean& isExist, Boolean& isError, Boolean firstValidate, DateTime& forbidDate, String nickname) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 890
+2016-08-17 23:54:07,348 - [32] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.PlayerBussiness.ActivePlayer(PlayerInfo& player, String userName, String passWord, Boolean sex, Int32 gold, Int32 money, String IP, String site) in e:\Gunny\Server\Gunny 3.4\Server\Bussiness\Bussiness\PlayerBussiness.cs:line 540
+2016-08-17 23:54:20,797 - [33] - ERROR - Tank.Request.StaticsMgr - Save log error
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\GameLog\reg-010110-20160817.log'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode)
+   at Tank.Request.StaticsMgr.OnTimer(Object state) in e:\Gunny\Server\Gunny 3.4\Server\Tank.Request\StaticsMgr.cs:line 64

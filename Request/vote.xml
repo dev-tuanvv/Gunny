@@ -1,0 +1,6 @@
+  <result voteId="5" completeMessage="感谢您的参与" firstQuestionID="41" award="1109,1209">
+      <item multiple="false" id="41" question="你好吗?" nextQuestionID="0" >
+          <answer   id="75" value="好" />
+          <answer   id="76" value="不好" />
+      </item>
+  </result>

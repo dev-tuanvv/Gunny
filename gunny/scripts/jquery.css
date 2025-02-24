@@ -1,0 +1,171 @@
+/**
+ * This <div> element is wrapped by jCarousel around the list
+ * and has the classname "jcarousel-container".
+ */
+
+.jcarousel-container {
+    position: relative;
+}
+
+.jcarousel-clip {
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.jcarousel-list {
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    left:100px;
+	top:10px;
+
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel-list  li,
+.jcarousel-item {
+    float: left;
+    list-style: none;
+    /* We set the width/height explicitly. No width/height causes infinite loops. */
+    width: 57px;
+	overflow:hidden;   
+	display:block;
+	background:url(../images/bg-list.gif) no-repeat;
+}
+
+/**
+ * The buttons are added dynamically by jCarousel before
+ * the <ul> list (inside the <div> described above) and
+ * have the classnames "jcarousel-next" and "jcarousel-prev".
+ */
+.jcarousel-next {
+    z-index: 3;
+    display: none;
+}
+
+.jcarousel-prev {
+    z-index: 3;
+    display: none;
+}
+
+/*user theme*/
+    /**
+     * This <div> element is wrapped by jCarousel around the list
+     * and has the classname "jcarousel-container".
+     */
+    .jcarousel-skin-campbell .jcarousel-container {
+        position: relative;
+        width: 521px;
+		
+    }
+
+    .jcarousel-skin-campbell .jcarousel-clip {
+        z-index: 2;
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        position: relative;
+        width: 522px;
+		margin-left:14px;
+		
+		
+    }
+
+    .jcarousel-skin-campbell .jcarousel-list {
+        z-index: 1;
+        overflow: hidden;
+        position: relative;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: 0;
+		 height:300px;
+    }
+
+    .jcarousel-skin-campbell .jcarousel-list  li,
+    .jcarousel-skin-campbell .jcarousel-item {
+        float: left;
+        list-style: none;
+        /* We set the width/height explicitly. No width/height causes infinite loops. */
+        width: 57px;
+		padding-right:1px;
+		display:block;
+		
+    }
+    
+
+    /**
+     * The buttons are added dynamically by jCarousel before
+     * the <ul> list (inside the <div> described above) and
+     * have the classnames "jcarousel-next" and "jcarousel-prev".
+     */
+    .jcarousel-skin-campbell .jcarousel-next,
+    .jcarousel-skin-campbell .jcarousel-prev {
+        z-index: 3;
+        display: none;
+        position: absolute;
+        width: 13px;
+        height: 30px;
+        top: 24px;
+        cursor: pointer;
+    }
+
+    .jcarousel-skin-campbell .jcarousel-next {
+        left: 537px;
+        background: url("../images/btn-next-pre.gif") -13px 0px no-repeat;
+    }
+	 .jcarousel-skin-campbell .jcarousel-next:hover {
+        
+        background: url("../images/btn-next-pre.gif") -13px -32px no-repeat;
+    }
+    .jcarousel-skin-campbell .jcarousel-prev {
+        left: 0px;
+        background: url("../images/btn-next-pre.gif") 0 0px  no-repeat;
+    }
+	.jcarousel-skin-campbell .jcarousel-prev:hover{
+     
+        background: url("../images/btn-next-pre.gif") 0 -32px  no-repeat;
+    }
+
+   
+    .jcarousel-skin-campbell .jcarousel-prev-disabled,
+	.jcarousel-skin-campbell .jcarousel-prev-disabled:hover { /* disabled */
+        background: url("../images/btn-next-pre.gif") 0 -64px  no-repeat;
+    }
+	.jcarousel-skin-campbell .jcarousel-next-disabled,
+	.jcarousel-skin-campbell .jcarousel-next-disabled:hover
+	{ /* disabled */
+       background: url("../images/btn-next-pre.gif") -13px -64px  no-repeat;
+    }
+/* END. user theme */
+
+.jcarousel-skin-campbell li ul li {
+	background:none;
+}
+.jcarousel-skin-campbell li ul li p {
+	text-align:center;
+	color:#70533a;
+	font-size:11px;
+
+}
+ul.UserZm li a.Name:link,ul.UserZm li a.Name:visited{
+	color:#70533a;
+	font-size:11px;
+	text-decoration:none;
+	font-weight:bold;
+    white-space: nowrap;
+}
+ul.UserZm li a.Name:hover{
+	color:#ba0000;
+}
+ul.UserZm li img {
+	margin:2px 0 0 8px;
+
+}
+ul.UserZm li.thumb {
+	height:44px;
+} @CHARSET "ISO-8859-1";

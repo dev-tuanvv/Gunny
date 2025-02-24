@@ -1,0 +1,19 @@
+2016-07-22 13:48:59,137 - [13] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.Close()
+   at System.ServiceModel.ClientBase`1.System.IDisposable.Dispose()
+   at Tank.Request.ServerList.ProcessRequest(HttpContext context) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\ServerList.cs:line 38
+2016-07-22 13:49:03,733 - [8] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-22 13:49:07,049 - [23] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-22 13:49:07,100 - [7] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-22 13:49:07,103 - [7] - ERROR - Tank.Request.Login - acctest002: ce003c21-7232-4628-baef-23301d52ea1dchinhaus=
+2016-07-22 13:49:07,607 - [10] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !

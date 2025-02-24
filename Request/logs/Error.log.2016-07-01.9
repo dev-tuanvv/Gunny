@@ -1,0 +1,11 @@
+2016-07-01 09:04:48,947 - [10] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness.Interface\BaseInterface.cs:line 266
+2016-07-01 09:05:16,981 - [10] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PveBussiness.GetAllV_Pve_Info(Int32 ID) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 100
+2016-07-01 09:05:16,983 - [10] - ERROR - Bussiness.BaseBussiness - GetAllPveInfos
+System.InvalidOperationException: Invalid attempt to call Read when reader is closed.
+   at System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at Bussiness.PveBussiness.GetAllPveInfos() in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness\PveBussiness.cs:line 18

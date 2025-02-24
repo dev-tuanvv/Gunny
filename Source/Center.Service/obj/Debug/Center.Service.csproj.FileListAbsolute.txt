@@ -1,0 +1,250 @@
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Languages\Language-vn.txt
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Languages\Language-zh_cn.txt
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\macrodrop\macroDrop.ini
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Center.Service.exe.config
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Center.Service.exe
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Center.Service.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Bussiness.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Center.Server.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Game.Base.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\log4net.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Newtonsoft.Json.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\zlib.net.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\SqlDataProvider.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\SqlDataProvider.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Center.Server.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\log4net.xml
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Game.Base.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\bin\Debug\Bussiness.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.exe
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.pdb
+D:\Herman-PC\releasePatch\Center\Languages\Language-vn.txt
+D:\Herman-PC\releasePatch\Center\Languages\Language-zh_cn.txt
+D:\Herman-PC\releasePatch\Center\macrodrop\macroDrop.ini
+D:\Herman-PC\releasePatch\Center\Center.Service.exe.config
+D:\Herman-PC\releasePatch\Center\Center.Service.exe
+D:\Herman-PC\releasePatch\Center\Center.Service.pdb
+D:\Herman-PC\workspace\Server\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.exe
+D:\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.pdb
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Center.Service.exe.config
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.exe
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.pdb
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Languages\Language-vn.txt
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Languages\Language-zh_cn.txt
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\macrodrop\macroDrop.ini
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Center.Service.exe
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Center.Service.pdb
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\workspace\Server\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\macrodrop\macroDrop.ini
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Center.Service.exe.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Center.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Center.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Service\obj\Debug\Center.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Service\obj\Debug\Center.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Center.Service.exe.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\macrodrop\macroDrop.ini
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Center.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Center.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Service\obj\Debug\Center.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\obj\Debug\Center.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\obj\Debug\Center.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Center.Service.exe.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\macrodrop\macroDrop.ini
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Center.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Center.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Center.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Newtonsoft.Json.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Center.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Service\bin\SqlDataProvider.pdb
+E:\Source 3.0\Center.Service\bin\Center.Service.exe.config
+E:\Source 3.0\Center.Service\obj\Debug\Center.Service.exe
+E:\Source 3.0\Center.Service\obj\Debug\Center.Service.pdb
+E:\Source 3.0\Center.Service\bin\Languages\Language-vn.txt
+E:\Source 3.0\Center.Service\bin\Languages\Language-zh_cn.txt
+E:\Source 3.0\Center.Service\bin\macrodrop\macroDrop.ini
+E:\Source 3.0\Center.Service\bin\Center.Service.exe
+E:\Source 3.0\Center.Service\bin\Center.Service.pdb
+E:\Source 3.0\Center.Service\bin\Bussiness.dll
+E:\Source 3.0\Center.Service\bin\Center.Server.dll
+E:\Source 3.0\Center.Service\bin\Game.Base.dll
+E:\Source 3.0\Center.Service\bin\log4net.dll
+E:\Source 3.0\Center.Service\bin\Newtonsoft.Json.dll
+E:\Source 3.0\Center.Service\bin\zlib.net.dll
+E:\Source 3.0\Center.Service\bin\SqlDataProvider.dll
+E:\Source 3.0\Center.Service\bin\Bussiness.pdb
+E:\Source 3.0\Center.Service\bin\Center.Server.pdb
+E:\Source 3.0\Center.Service\bin\Game.Base.pdb
+E:\Source 3.0\Center.Service\bin\log4net.xml
+E:\Source 3.0\Center.Service\bin\SqlDataProvider.pdb
+E:\Source 3.0\Center.Service\obj\Debug\ResolveAssemblyReference.cache
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Center.Service.exe.config
+E:\dev Gunny 3.0\Source 3\Center.Service\obj\Debug\Center.Service.exe
+E:\dev Gunny 3.0\Source 3\Center.Service\obj\Debug\Center.Service.pdb
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Languages\Language-vn.txt
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Languages\Language-zh_cn.txt
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\macrodrop\macroDrop.ini
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Center.Service.exe
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Center.Service.pdb
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Bussiness.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Center.Server.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Game.Base.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\log4net.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Newtonsoft.Json.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\zlib.net.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\SqlDataProvider.dll
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Bussiness.pdb
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Center.Server.pdb
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\Game.Base.pdb
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\log4net.xml
+E:\dev Gunny 3.0\Source 3\Center.Service\bin\SqlDataProvider.pdb
+E:\dev Gunny 3.0\Source 3\Center.Service\obj\Debug\Center.Service.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Center.Service.exe.config
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\obj\Debug\Center.Service.exe
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\obj\Debug\Center.Service.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Languages\Language-vn.txt
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Languages\Language-zh_cn.txt
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\macrodrop\macroDrop.ini
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Center.Service.exe
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Center.Service.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Bussiness.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Center.Server.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Game.Base.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\log4net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Newtonsoft.Json.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\zlib.net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Bussiness.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Center.Server.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\Game.Base.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\log4net.xml
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\bin\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Center.Service\obj\Debug\Center.Service.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Center.Service.exe.config
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.exe
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.pdb
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Languages\Language-vn.txt
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Languages\Language-zh_cn.txt
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\macrodrop\macroDrop.ini
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Center.Service.exe
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Center.Service.pdb
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Bussiness.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Center.Server.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Newtonsoft.Json.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\zlib.net.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Bussiness.pdb
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Center.Server.pdb
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\bin\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.csprojResolveAssemblyReference.cache
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Center.Service.exe.config
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\obj\Debug\Center.Service.exe
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\obj\Debug\Center.Service.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Languages\Language-vn.txt
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Languages\Language-zh_cn.txt
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\macrodrop\macroDrop.ini
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Center.Service.exe
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Center.Service.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Bussiness.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Center.Server.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Newtonsoft.Json.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\zlib.net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Bussiness.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Center.Server.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\bin\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Center.Service\obj\Debug\Center.Service.csprojResolveAssemblyReference.cache
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Languages\Language-vn.txt
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Languages\Language-zh_cn.txt
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\macrodrop\macroDrop.ini
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Center.Service.exe.config
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Center.Service.exe
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Center.Service.pdb
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Bussiness.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Center.Server.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Game.Base.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\log4net.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Newtonsoft.Json.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\zlib.net.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\SqlDataProvider.dll
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Bussiness.pdb
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Bussiness.dll.config
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Center.Server.pdb
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Center.Server.dll.config
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\Game.Base.pdb
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\log4net.xml
+C:\Users\Billy\Desktop\gunny project\Center.Service\bin\SqlDataProvider.pdb
+C:\Users\Billy\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.csprojAssemblyReference.cache
+C:\Users\Billy\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.csproj.CopyComplete
+C:\Users\Billy\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.exe
+C:\Users\Billy\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.pdb
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Languages\Language-vn.txt
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Languages\Language-zh_cn.txt
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\macrodrop\macroDrop.ini
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Center.Service.exe.config
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Center.Service.exe
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Center.Service.pdb
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Bussiness.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Center.Server.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Game.Base.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\log4net.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Newtonsoft.Json.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\zlib.net.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\SqlDataProvider.dll
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Bussiness.pdb
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Center.Server.pdb
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\Game.Base.pdb
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\log4net.xml
+C:\Users\HungML\Desktop\gunny project\Center.Service\bin\SqlDataProvider.pdb
+C:\Users\HungML\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.csprojResolveAssemblyReference.cache
+C:\Users\HungML\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.exe
+C:\Users\HungML\Desktop\gunny project\Center.Service\obj\Debug\Center.Service.pdb
+D:\19072018\gunny project\Center.Service\bin\Languages\Language-vn.txt
+D:\19072018\gunny project\Center.Service\bin\Languages\Language-zh_cn.txt
+D:\19072018\gunny project\Center.Service\bin\macrodrop\macroDrop.ini
+D:\19072018\gunny project\Center.Service\bin\Center.Service.exe.config
+D:\19072018\gunny project\Center.Service\bin\Center.Service.exe
+D:\19072018\gunny project\Center.Service\bin\Center.Service.pdb
+D:\19072018\gunny project\Center.Service\bin\Bussiness.dll
+D:\19072018\gunny project\Center.Service\bin\Center.Server.dll
+D:\19072018\gunny project\Center.Service\bin\Game.Base.dll
+D:\19072018\gunny project\Center.Service\bin\log4net.dll
+D:\19072018\gunny project\Center.Service\bin\Newtonsoft.Json.dll
+D:\19072018\gunny project\Center.Service\bin\zlib.net.dll
+D:\19072018\gunny project\Center.Service\bin\SqlDataProvider.dll
+D:\19072018\gunny project\Center.Service\bin\Bussiness.pdb
+D:\19072018\gunny project\Center.Service\bin\Center.Server.pdb
+D:\19072018\gunny project\Center.Service\bin\Game.Base.pdb
+D:\19072018\gunny project\Center.Service\bin\log4net.xml
+D:\19072018\gunny project\Center.Service\bin\SqlDataProvider.pdb
+D:\19072018\gunny project\Center.Service\obj\Debug\Center.Service.csprojResolveAssemblyReference.cache
+D:\19072018\gunny project\Center.Service\obj\Debug\Center.Service.exe
+D:\19072018\gunny project\Center.Service\obj\Debug\Center.Service.pdb

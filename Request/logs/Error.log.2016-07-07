@@ -1,0 +1,62 @@
+2016-07-07 15:11:39,203 - [5] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 15:20:53,035 - [27] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 15:27:52,523 - [30] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 15:38:02,169 - [71] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 15:46:43,521 - [72] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 15:54:32,006 - [98] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 15:57:53,382 - [105] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:11:22,980 - [126] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:13:57,704 - [133] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:15:57,151 - [124] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:20:12,110 - [122] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:23:25,245 - [133] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:29:38,242 - [135] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:31:02,493 - [114] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:31:02,496 - [114] - ERROR - Tank.Request.Login - qqqqqqqq: df79a33f-f7e1-493e-bd7d-d9aaf15075c0chinhaus=
+2016-07-07 16:31:23,693 - [128] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:31:23,696 - [128] - ERROR - Tank.Request.Login - qqqqqqqq: df79a33f-f7e1-493e-bd7d-d9aaf15075c0chinhaus=
+2016-07-07 16:31:44,734 - [136] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:31:44,737 - [136] - ERROR - Tank.Request.Login - qqqqqqqq: df79a33f-f7e1-493e-bd7d-d9aaf15075c0chinhaus=
+2016-07-07 16:32:05,943 - [126] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:32:05,946 - [126] - ERROR - Tank.Request.Login - qqqqqqqq: df79a33f-f7e1-493e-bd7d-d9aaf15075c0chinhaus=
+2016-07-07 16:32:24,111 - [115] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.Close()
+   at System.ServiceModel.ClientBase`1.System.IDisposable.Dispose()
+   at Tank.Request.ServerList.ProcessRequest(HttpContext context) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\ServerList.cs:line 38
+2016-07-07 16:32:50,456 - [135] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:32:50,459 - [135] - ERROR - Tank.Request.Login - qqqqqqqq: df79a33f-f7e1-493e-bd7d-d9aaf15075c0chinhaus=
+2016-07-07 16:36:24,745 - [115] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 16:43:42,220 - [117] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 17:05:42,541 - [116] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 17:08:09,733 - [135] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 17:08:48,414 - [126] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 17:50:06,294 - [119] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 18:05:51,830 - [93] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 18:25:32,227 - [55] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 18:31:51,521 - [41] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 18:31:51,525 - [41] - ERROR - Tank.Request.Login - qqqqqqqq: 5cbf3599-01ea-4a9d-8975-44fc7d185c6echinhaus=
+2016-07-07 18:32:55,194 - [44] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 18:38:28,233 - [44] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 18:50:58,245 - [44] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:07:18,312 - [40] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:11:04,009 - [60] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:18:34,528 - [61] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:20:21,583 - [48] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:39:29,853 - [91] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:44:03,017 - [88] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 19:58:40,300 - [73] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 20:01:45,393 - [67] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 21:00:07,453 - [72] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 21:12:33,233 - [56] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 21:19:02,573 - [72] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-07-07 21:20:33,440 - [81] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !

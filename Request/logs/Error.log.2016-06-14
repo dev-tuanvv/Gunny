@@ -1,0 +1,32 @@
+2016-06-14 13:55:29,454 - [10] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Bussiness\Bussiness.Interface\BaseInterface.cs:line 266
+2016-06-14 13:56:26,498 - [12] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 13:59:46,951 - [13] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 13:59:46,954 - [13] - ERROR - Tank.Request.Login - acctest001: 9080e252-a37d-43d0-ba3f-2f9fbd741889chinhaus=
+2016-06-14 14:01:18,973 - [6] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:03:16,567 - [6] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:03:16,573 - [6] - ERROR - Tank.Request.Login - acctest001: e9c23e68-b4a0-40e3-9997-1c202cda1d88chinhaus=
+2016-06-14 14:03:35,278 - [6] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:03:35,283 - [6] - ERROR - Tank.Request.Login - acctest001: e9c23e68-b4a0-40e3-9997-1c202cda1d88chinhaus=
+2016-06-14 14:03:59,959 - [14] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:06:29,428 - [14] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:07:01,600 - [14] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:09:39,374 - [16] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:09:39,378 - [16] - ERROR - Tank.Request.Login - acctest001: 272d21bb-bcb7-4eda-88f6-2340d26546a3chinhaus=
+2016-06-14 14:09:58,066 - [20] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:09:58,071 - [20] - ERROR - Tank.Request.Login - acctest001: 272d21bb-bcb7-4eda-88f6-2340d26546a3chinhaus=
+2016-06-14 14:10:17,476 - [21] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:10:17,480 - [21] - ERROR - Tank.Request.Login - acctest001: 272d21bb-bcb7-4eda-88f6-2340d26546a3chinhaus=
+2016-06-14 14:10:36,529 - [21] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:10:36,534 - [21] - ERROR - Tank.Request.Login - acctest001: 272d21bb-bcb7-4eda-88f6-2340d26546a3chinhaus=
+2016-06-14 14:10:54,822 - [21] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:10:54,826 - [21] - ERROR - Tank.Request.Login - acctest001: 272d21bb-bcb7-4eda-88f6-2340d26546a3chinhaus=
+2016-06-14 14:11:13,253 - [20] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:11:13,262 - [20] - ERROR - Tank.Request.Login - acctest001: 272d21bb-bcb7-4eda-88f6-2340d26546a3chinhaus=
+2016-06-14 14:11:38,823 - [21] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:12:27,611 - [20] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:23:05,847 - [8] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:23:46,896 - [16] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:46:48,223 - [21] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !
+2016-06-14 14:47:19,501 - [10] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\bin\Languages\Language-vn.txt not found !

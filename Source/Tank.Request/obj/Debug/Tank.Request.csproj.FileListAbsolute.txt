@@ -1,0 +1,63 @@
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Tank.Request.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Tank.Request.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Ajax.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Newtonsoft.Json.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Road.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Tank.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Road.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Tank.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\bin\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\obj\Debug\Tank.Request.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\obj\Debug\Tank.Request.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Tank.Request.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Tank.Request.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Ajax.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Newtonsoft.Json.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Road.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Tank.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Road.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Tank.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\bin\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\obj\Debug\Tank.Request.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\obj\Debug\Tank.Request.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Languages\Language-vn.txt
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Languages\Language-zh_cn.txt
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Tank.Request.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Tank.Request.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Ajax.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Bussiness.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Newtonsoft.Json.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Road.Flash.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\SqlDataProvider.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Tank.Flash.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\zlib.net.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Game.Base.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Bussiness.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Road.Flash.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\SqlDataProvider.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Tank.Flash.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\log4net.xml
+E:\dev Gunny 3.0\Source 3\Tank.Request\bin\Game.Base.pdb
+E:\dev Gunny 3.0\Source 3\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+E:\dev Gunny 3.0\Source 3\Tank.Request\obj\Debug\Tank.Request.dll
+E:\dev Gunny 3.0\Source 3\Tank.Request\obj\Debug\Tank.Request.pdb

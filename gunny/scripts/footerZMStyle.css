@@ -1,0 +1,331 @@
+@charset "utf-8";
+
+/* CSS Document */
+/* BarFooter */
+* {
+    margin: 0;padding: 0;
+}
+a:link,a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+#zingmefriend {
+	bottom: 0;
+	left: 0;
+	padding: 0 5px;
+	position: fixed;
+	width: 100%;
+	background: transparent !important;
+	z-index: 5000;
+}
+
+#zingmefriend.BarFooter .BarFooterCenter {
+	background:
+		url(../../images/zmfbar/bg-footer-bar.gif)
+		0 25px no-repeat;
+	height: 119px;
+	width: 1000px;
+	position: fixed;
+	bottom: 0;
+}
+
+#zingmefriend .BarFooterCenter a.Like:link,.BarFooterCenter a.Like:visited
+	{
+	background:
+		url(../../images/zmfbar/thich.jpg)
+		no-repeat;
+	width: 94px;
+	height: 30px;
+	border: none;
+	text-indent: -9999px;
+	display: block;
+	position: absolute;
+	left: 15px;
+	top: 80px;
+}
+
+#zingmefriend .BarFooterCenter a.Sign:hover {
+	background-position: 0 -30px;
+}
+
+#zingmefriend .BarFooterCenter a.Sign:link,.BarFooterCenter a.Sign:visited
+	{
+	background:
+		url(../../images/zmfbar/thich.jpg)
+		no-repeat;
+	width: 94px;
+	height: 30px;
+	border: none;
+	text-indent: -9999px;
+	display: block;
+	position: absolute;
+	left: 150px;
+	top: 80px;
+}
+
+#zingmefriend .BarFooterCenter a.Like:hover {
+	background-position: 0 -30px;
+}
+
+#zingmefriend .BarFooterCenter a.Close:link,.BarFooterCenter a.Close:visited
+	{
+	background:
+		url(../../images/zmfbar/donglai.gif)
+		no-repeat;
+	width: 65px;
+	height: 25px;
+	border: none;
+	text-indent: -9999px;
+	display: block;
+	position: absolute;
+	right: 7px;
+	top: 1px;
+}
+
+#zingmefriend .BarFooterCenter a.Close:hover {
+	background-position: 0 -25px;
+}
+#zingmefriend .BarFooterCenter a.Circle:link,.BarFooterCenter a.Circle:visited
+	{
+	background:
+		url(../../images/zmfbar/circle.gif)
+		no-repeat;
+	width: 65px;
+	height: 25px;
+	border: none;
+	text-indent: -9999px;
+	display: block;
+	position: absolute;
+	right: 72px;
+	top: 1px;
+}
+
+#zingmefriend .BarFooterCenter a.Circle:hover {
+	background-position: 0 -25px;
+}
+
+#zingmefriend a.BarFooterTimBan:link,#zingmefriend a.BarFooterTimBan:visited,#zingmefriend a.BarFooterTimBan:hover
+	{
+	background:
+		url(../../images/zmfbar/timban.png)
+		no-repeat;
+	width: 345px;
+	height: 51px;
+	border: none;
+	text-indent: -9999px;
+	display: none;
+	position: relative;
+	left: 338px;
+	top: 1px;
+}
+
+#zingmefriend .BarFooterCenter .ListUser {
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	width: 560px;
+	height: 94px;
+	top: 35px;
+	left: 118px;
+}
+
+#zingmefriend .BarFooterCenter .SignIn {
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	width: 550px;
+	height: 80px;
+	top: 35px;
+	left: 118px;
+	z-index: 5500;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #ffffff;
+	opacity: 0.6;
+	filter: alpha(opacity =     60);
+}
+
+#zingmefriend .BarFooterCenter a.SignIn:link,#zingmefriend .BarFooterCenter a.SignIn:hover
+	{
+	position: absolute;
+	margin: auto;
+	top: 25px;
+}
+
+#zingmefriend .FooterWrapper {
+	margin: auto;
+	overflow: hidden;
+	width: 1000px;
+	background: transparent !important;
+}
+
+.zingmefriendcharacterList {
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+	width: 250px;
+	z-index: 5500;
+	padding: 5px;
+	text-align: left;
+	position: fixed;
+}
+
+.zingmefriendkT {
+	-moz-border-radius: 5px;
+	-moz-box-shadow: 1px 1px 1px #777;
+	-webkit-border-radius: 5px;
+	-webkit-box-shadow: 1px 1px 1px #777;
+	background: #333;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4E4F50),
+		to(#323334) );
+	background: -moz-linear-gradient(top, #4E4F50, #323334);
+	background: -o-linear-gradient(top, #4E4F50, #323334);
+	border-radius: 5px;
+	position: absolute;
+	margin: auto;
+	top: 25px;
+	opacity: 1;
+	left: 380px;
+	z-index: 5500;
+}
+.zingmefriendSign {
+	background: #333;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4E4F50),
+		to(#323334) );
+	background: -moz-linear-gradient(top, #4E4F50, #323334);
+	background: -o-linear-gradient(top, #4E4F50, #323334);
+	border-radius: 5px;
+	border: 1px solid #BCBCBC;
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+	color: #666666;
+	font-size: 15px;
+	max-width: 314px;
+	min-width: 224px;
+	overflow: hidden;
+	position: absolute;
+	word-wrap: break-word;
+	z-index: 5500;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4E4F50),
+		to(#323334) );
+	background: -moz-linear-gradient(top, #4E4F50, #323334);
+	background: -o-linear-gradient(top, #4E4F50, #323334);
+	border-radius: 5px;
+	position: absolute;
+	margin: auto;
+	top: 25px;
+	opacity: 1;
+	left: 257px;
+	top: 60px;
+	z-index: 5600;
+	height: 30px;
+}
+.zingmefriendc-W-kj {
+	background: #333;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4E4F50),
+		to(#323334) );
+	background: -moz-linear-gradient(top, #4E4F50, #323334);
+	background: -o-linear-gradient(top, #4E4F50, #323334);
+	border-radius: 5px;
+	border: 1px solid #BCBCBC;
+	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+	color: #666666;
+	font-size: 13px;
+	max-width: 314px;
+	min-width: 224px;
+	overflow: hidden;
+	word-wrap: break-word;
+	z-index: 5500;
+	background: -webkit-gradient(linear, left top, left bottom, from(#4E4F50),
+		to(#323334) );
+	background: -moz-linear-gradient(top, #4E4F50, #323334);
+	background: -o-linear-gradient(top, #4E4F50, #323334);
+	border-radius: 5px;
+	z-index: 5500;
+}
+
+.zingmefriendbtn_login {
+	background:
+		url(../../images/zmfbar/bg_stepv1.01.gif)
+		no-repeat;
+	position: absolute;
+	margin: auto;
+	top: 25px;
+	opacity: 1;
+	left: 330px;
+	top: 60px;
+	z-index: 5500;
+}
+
+.zingmefriendbtn_login {
+	background-position: 0 -54px;
+	width: 127px;
+	height: 31px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.zingmefriendbtn_login:hover {
+	background-position: 0 -84px;
+	width: 127px;
+	height: 31px;
+}
+
+.zingmefriendbtn_login input {
+	background: none;
+	border: none;
+	cursor: pointer;
+	width: 127px;
+	height: 31px !important;
+}
+.zmfchat-fIdle {
+	background-position: 0 -56px;
+}
+.zmfchat-fOn {
+	background-position: 0 -30px;
+}
+.zmfchat-fOff {
+	background-position: 0 -80px;
+}
+.zmfchat-status {
+	float: right;
+	height: 11px;
+	margin-top:4px;
+	width: 11px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+}
+.zfrBar-Loading {
+    position: absolute;
+    right: 250px; bottom: 35px; 
+    z-index: 5500;
+}
+
+div.zingmefriendFanPage { 
+    display:block;
+    width:310px;
+    height:80px;
+    position:absolute;
+    top:30px;
+    left:680px;
+    background:#b09662;
+    padding:1px;
+    border:#ffeec1 solid 1px;
+ }
+ div.zingmefriendFanPageContent { background:#fff; padding:5px;}
+ /* BarFooter */
+ .BarFooter {
+    
+    bottom: 0;
+    left: 0;
+    padding: 0 5px;
+    position: fixed;
+    width: 100%;
+    
+    z-index: 5500;
+}

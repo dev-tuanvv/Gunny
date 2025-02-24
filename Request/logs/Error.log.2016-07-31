@@ -1,0 +1,26 @@
+2016-07-31 18:59:14,769 - [14] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 19:00:38,426 - [14] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 19:06:20,476 - [36] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 19:09:56,566 - [62] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 19:54:56,292 - [70] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 19:54:56,295 - [70] - ERROR - Tank.Request.Login - moncute052: ff544ae3-66f6-43ee-b54a-ad1fd716b201chinhaus=
+2016-07-31 19:56:44,733 - [87] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 20:01:10,279 - [85] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 20:19:11,408 - [85] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 20:27:01,436 - [88] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 20:30:11,291 - [69] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 21:13:01,805 - [86] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 21:14:38,693 - [77] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 21:18:41,499 - [93] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 21:18:41,502 - [93] - ERROR - Tank.Request.Login - moncute052: 5dc48856-b96b-4651-ad15-ff615ef9ae1cchinhaus=
+2016-07-31 21:19:03,377 - [88] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 21:19:03,385 - [88] - ERROR - Tank.Request.Login - User Login error
+System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   at System.Security.Cryptography.RSACryptoServiceProvider.DecryptKey(SafeKeyHandle pKeyContext, Byte[] pbEncryptedKey, Int32 cbEncryptedKey, Boolean fOAEP, ObjectHandleOnStack ohRetDecryptedKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   at Road.Flash.CryptoHelper.RsaDecryt2(RSACryptoServiceProvider rsa, String src) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Road.Flash\CryptoHelper.cs:line 63
+   at Tank.Request.Login.ProcessRequest(HttpContext context) in e:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\Login.cs:line 37
+2016-07-31 21:19:24,911 - [93] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !
+2016-07-31 21:25:38,101 - [77] - ERROR - Bussiness.LanguageMgr - Language file : C:\inetpub\wwwroot\request\\bin\Languages\Language-vn.txt not found !

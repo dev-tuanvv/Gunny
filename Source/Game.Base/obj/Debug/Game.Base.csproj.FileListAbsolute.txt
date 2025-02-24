@@ -1,0 +1,101 @@
+D:\workspace\Server\Game.Base\bin\Debug\log4net.dll
+D:\workspace\Server\Game.Base\bin\Debug\zlib.net.dll
+D:\workspace\Server\Game.Base\bin\Debug\log4net.xml
+D:\workspace\Server\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\Game.Base\bin\Debug\Game.Base.dll
+D:\workspace\Server\Game.Base\bin\Debug\Game.Base.pdb
+D:\workspace\Server\Game.Base\obj\Debug\Game.Base.dll
+D:\workspace\Server\Game.Base\obj\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\obj\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\obj\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Debug\Game.Base.pdb
+E:\Source 3.0\Game.Base\bin\Debug\Game.Base.dll
+E:\Source 3.0\Game.Base\bin\Debug\Game.Base.pdb
+E:\Source 3.0\Game.Base\bin\Debug\log4net.dll
+E:\Source 3.0\Game.Base\bin\Debug\zlib.net.dll
+E:\Source 3.0\Game.Base\bin\Debug\log4net.xml
+E:\Source 3.0\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\Source 3.0\Game.Base\obj\Debug\Game.Base.dll
+E:\Source 3.0\Game.Base\obj\Debug\Game.Base.pdb
+D:\Work\Source 3\Game.Base\bin\Debug\Game.Base.dll
+D:\Work\Source 3\Game.Base\bin\Debug\Game.Base.pdb
+D:\Work\Source 3\Game.Base\bin\Debug\log4net.dll
+D:\Work\Source 3\Game.Base\bin\Debug\zlib.net.dll
+D:\Work\Source 3\Game.Base\bin\Debug\log4net.xml
+D:\Work\Source 3\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Source 3\Game.Base\obj\Debug\Game.Base.dll
+D:\Work\Source 3\Game.Base\obj\Debug\Game.Base.pdb
+E:\dev Gunny 3.0\Source 3\Game.Base\bin\Debug\Game.Base.dll
+E:\dev Gunny 3.0\Source 3\Game.Base\bin\Debug\Game.Base.pdb
+E:\dev Gunny 3.0\Source 3\Game.Base\bin\Debug\log4net.dll
+E:\dev Gunny 3.0\Source 3\Game.Base\bin\Debug\zlib.net.dll
+E:\dev Gunny 3.0\Source 3\Game.Base\bin\Debug\log4net.xml
+E:\dev Gunny 3.0\Source 3\Game.Base\obj\Debug\Game.Base.dll
+E:\dev Gunny 3.0\Source 3\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\Game.Base\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\Billy\Desktop\gunny project\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Base\bin\Debug\log4net.dll
+C:\Users\Billy\Desktop\gunny project\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\Billy\Desktop\gunny project\Game.Base\bin\Debug\log4net.xml
+C:\Users\Billy\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
+C:\Users\Billy\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\Billy\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.pdb
+C:\Users\Billy\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.csprojAssemblyReference.cache
+C:\Users\HungML\Desktop\gunny project\Game.Base\bin\Debug\Game.Base.dll
+C:\Users\HungML\Desktop\gunny project\Game.Base\bin\Debug\Game.Base.pdb
+C:\Users\HungML\Desktop\gunny project\Game.Base\bin\Debug\log4net.dll
+C:\Users\HungML\Desktop\gunny project\Game.Base\bin\Debug\zlib.net.dll
+C:\Users\HungML\Desktop\gunny project\Game.Base\bin\Debug\log4net.xml
+C:\Users\HungML\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.csprojResolveAssemblyReference.cache
+C:\Users\HungML\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.dll
+C:\Users\HungML\Desktop\gunny project\Game.Base\obj\Debug\Game.Base.pdb
+D:\19072018\gunny project\Game.Base\bin\Debug\Game.Base.dll
+D:\19072018\gunny project\Game.Base\bin\Debug\Game.Base.pdb
+D:\19072018\gunny project\Game.Base\bin\Debug\log4net.dll
+D:\19072018\gunny project\Game.Base\bin\Debug\zlib.net.dll
+D:\19072018\gunny project\Game.Base\bin\Debug\log4net.xml
+D:\19072018\gunny project\Game.Base\obj\Debug\Game.Base.dll
+D:\19072018\gunny project\Game.Base\obj\Debug\Game.Base.pdb

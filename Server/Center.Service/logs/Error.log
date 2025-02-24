@@ -1,0 +1,6 @@
+17:25:48,772 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetLuckyStart_Topten_Award_All
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.GetAllLuckyStartToptenAward()
+17:25:48,780 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetLuckyStart_Topten_Award_All
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.GetAllLanternriddlesTopTenAward()

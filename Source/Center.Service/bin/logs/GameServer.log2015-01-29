@@ -1,0 +1,80 @@
+23:21:19,684 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:21:35,162 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,187 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+23:21:35,188 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 11000
+23:21:35,269 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,270 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+23:21:35,271 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 1000
+23:21:35,314 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,316 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+23:21:35,317 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 1000
+23:21:35,361 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,364 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+23:21:35,367 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 1000
+23:21:35,411 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,414 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+23:21:35,416 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+23:21:35,459 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,462 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+23:21:35,463 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 2
+23:21:35,514 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,516 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+23:21:35,518 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 1000
+23:21:35,565 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,567 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+23:21:35,567 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1000
+23:21:35,629 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,632 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+23:21:35,634 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 2000,2700,3400
+23:21:35,685 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,688 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoxAppearCondition,keep it default value!
+23:21:35,692 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+23:21:35,736 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,738 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DisableCommands,keep it default value!
+23:21:35,741 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is 
+23:21:35,829 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,831 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AssState,keep it default value!
+23:21:35,832 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+23:21:35,883 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,885 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DailyAwardState,keep it default value!
+23:21:35,887 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+23:21:35,983 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:35,984 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Cess,keep it default value!
+23:21:35,985 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0.1
+23:21:36,040 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:36,042 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BeginAuction,keep it default value!
+23:21:36,043 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 20
+23:21:36,092 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in e:\dev Gunny 3.0\Source 3\Bussiness\ServiceBussiness.cs:line 254
+23:21:36,094 - [M

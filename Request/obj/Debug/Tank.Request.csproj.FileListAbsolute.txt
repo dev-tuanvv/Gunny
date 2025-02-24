@@ -1,0 +1,301 @@
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Languages\Language-vn.txt
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Tank.Request.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Tank.Request.pdb
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Ajax.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Bussiness.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Newtonsoft.Json.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Road.Flash.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\SqlDataProvider.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Tank.Flash.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\zlib.net.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Game.Base.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\MSCaptcha.dll
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Road.Flash.pdb
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Tank.Flash.pdb
+F:\DDTank\WorkspceServer3\Tank.Request\bin\log4net.xml
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Game.Base.pdb
+F:\DDTank\WorkspceServer3\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\WorkspceServer3\Tank.Request\obj\Debug\Tank.Request.dll
+F:\DDTank\WorkspceServer3\Tank.Request\obj\Debug\Tank.Request.pdb
+F:\DDTank\WorkspceServer3\Tank.Request\bin\Bussiness.pdb
+F:\DDTank\WorkspceServer3\Tank.Request\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Tank.Request.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Tank.Request.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Ajax.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Newtonsoft.Json.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Road.Flash.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Road.Flash.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\obj\Debug\Tank.Request.dll
+F:\DDTank\Workspce.Gunny3\Tank.Request\obj\Debug\Tank.Request.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Request\bin\log4net.xml
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Tank.Request.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Tank.Request.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Ajax.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Bussiness.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Newtonsoft.Json.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Road.Flash.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\zlib.net.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Game.Base.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Road.Flash.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\log4net.xml
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\bin\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\obj\Debug\Tank.Request.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Request\obj\Debug\Tank.Request.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\Tank.Request\obj\Debug\Tank.Request.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Tank.Request.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Tank.Request.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Ajax.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Newtonsoft.Json.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Road.Flash.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Road.Flash.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\obj\Debug\Tank.Request.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Request\bin\log4net.xml
+D:\DDTank\Workspce.Gunny.II\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Tank.Request.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Tank.Request.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Ajax.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Newtonsoft.Json.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Road.Flash.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Road.Flash.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Request\obj\Debug\Tank.Request.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Request\obj\Debug\Tank.Request.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Request\bin\log4net.xml
+E:\Servergunny\Source\Tank.Request\bin\Languages\Language-vn.txt
+E:\Servergunny\Source\Tank.Request\bin\Tank.Request.dll
+E:\Servergunny\Source\Tank.Request\bin\Tank.Request.pdb
+E:\Servergunny\Source\Tank.Request\bin\Ajax.dll
+E:\Servergunny\Source\Tank.Request\bin\Bussiness.dll
+E:\Servergunny\Source\Tank.Request\bin\Newtonsoft.Json.dll
+E:\Servergunny\Source\Tank.Request\bin\Road.Flash.dll
+E:\Servergunny\Source\Tank.Request\bin\SqlDataProvider.dll
+E:\Servergunny\Source\Tank.Request\bin\zlib.net.dll
+E:\Servergunny\Source\Tank.Request\bin\Game.Base.dll
+E:\Servergunny\Source\Tank.Request\bin\Bussiness.pdb
+E:\Servergunny\Source\Tank.Request\bin\Road.Flash.pdb
+E:\Servergunny\Source\Tank.Request\bin\SqlDataProvider.pdb
+E:\Servergunny\Source\Tank.Request\bin\log4net.xml
+E:\Servergunny\Source\Tank.Request\bin\Game.Base.pdb
+E:\Servergunny\Source\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+E:\Servergunny\Source\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Servergunny\Source\Tank.Request\obj\Debug\Tank.Request.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Languages\Language-vn.txt
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Tank.Request.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Tank.Request.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Ajax.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Bussiness.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Newtonsoft.Json.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Road.Flash.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\SqlDataProvider.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\zlib.net.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Game.Base.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Bussiness.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Road.Flash.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\SqlDataProvider.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\Game.Base.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+D:\Server 4.0 fix bug\Source\Tank.Request\obj\Debug\Tank.Request.dll
+D:\Server 4.0 fix bug\Source\Tank.Request\obj\Debug\Tank.Request.pdb
+D:\Server 4.0 fix bug\Source\Tank.Request\bin\log4net.xml
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Languages\Language-vn.txt
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Tank.Request.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Tank.Request.pdb
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Ajax.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Bussiness.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Newtonsoft.Json.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Road.Flash.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\SqlDataProvider.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\zlib.net.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Game.Base.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Bussiness.pdb
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Road.Flash.pdb
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\SqlDataProvider.pdb
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\log4net.xml
+D:\Server 4.0 fix bug\Source R4\Tank.Request\bin\Game.Base.pdb
+D:\Server 4.0 fix bug\Source R4\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+D:\Server 4.0 fix bug\Source R4\Tank.Request\obj\Debug\Tank.Request.dll
+D:\Server 4.0 fix bug\Source R4\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Tank.Request.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Tank.Request.pdb
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Bussiness.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\log4net.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Road.Flash.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\SqlDataProvider.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Game.Base.dll
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Bussiness.pdb
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Road.Flash.pdb
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\SqlDataProvider.pdb
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\log4net.xml
+C:\Users\WINDOW 7\Desktop\Source\Tank.Request\bin\Game.Base.pdb
+E:\Source\Tank.Request\bin\Tank.Request.dll
+E:\Source\Tank.Request\bin\Tank.Request.pdb
+E:\Source\Tank.Request\bin\Bussiness.dll
+E:\Source\Tank.Request\bin\log4net.dll
+E:\Source\Tank.Request\bin\Road.Flash.dll
+E:\Source\Tank.Request\bin\SqlDataProvider.dll
+E:\Source\Tank.Request\bin\Game.Base.dll
+E:\Source\Tank.Request\bin\Bussiness.pdb
+E:\Source\Tank.Request\bin\Road.Flash.pdb
+E:\Source\Tank.Request\bin\SqlDataProvider.pdb
+E:\Source\Tank.Request\bin\log4net.xml
+E:\Source\Tank.Request\bin\Game.Base.pdb
+E:\Source\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+E:\Source\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Source\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Tank.Request.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Tank.Request.pdb
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Bussiness.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\log4net.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Road.Flash.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\SqlDataProvider.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Game.Base.dll
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Bussiness.pdb
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\Road.Flash.pdb
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\SqlDataProvider.pdb
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\bin\log4net.xml
+C:\Users\WINDOW 7\Desktop\DDtankII 2013\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Tank.Request.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Tank.Request.pdb
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Bussiness.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\log4net.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Road.Flash.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\SqlDataProvider.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Game.Base.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Bussiness.pdb
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\Road.Flash.pdb
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\SqlDataProvider.pdb
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\bin\log4net.xml
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\Jhon\Desktop\DDtankII 2013\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Tank.Request.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Tank.Request.pdb
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Bussiness.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\log4net.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Road.Flash.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\SqlDataProvider.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Game.Base.dll
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Bussiness.pdb
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\Road.Flash.pdb
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\SqlDataProvider.pdb
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\bin\log4net.xml
+C:\Users\Jhonatan\Desktop\DD16\Tank.Request\obj\Debug\Tank.Request.pdb
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Tank.Request.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Tank.Request.pdb
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Bussiness.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\log4net.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Road.Flash.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\SqlDataProvider.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Game.Base.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Bussiness.pdb
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\Road.Flash.pdb
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\SqlDataProvider.pdb
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\bin\log4net.xml
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\JhonnD\Desktop\DD16\Tank.Request\obj\Debug\Tank.Request.pdb
+E:\Source_4.0\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+E:\Source_4.0\Tank.Request\obj\Debug\Tank.Request.dll
+C:\Users\IGORYOXA\Desktop\бумз\новое\Source_4.0(v5.5)\Source_4.0(v5.5)\Source_4.0(v5.5)\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+C:\Users\IGORYOXA\Desktop\бумз\новое\Source_4.0(v5.5)\Source_4.0(v5.5)\Source_4.0(v5.5)\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Tank.Request.dll.config
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Tank.Request.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Tank.Request.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Bussiness.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\log4net.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Newtonsoft.Json.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Road.Flash.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\SqlDataProvider.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Game.Base.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Bussiness.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\Road.Flash.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\SqlDataProvider.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\bin\log4net.xml
+E:\Gunny\Server\5.9\source 5.5\sourse5.9\Tank.Request\obj\Debug\Tank.Request.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Tank.Request.dll.config
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Tank.Request.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Tank.Request.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Bussiness.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\log4net.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Newtonsoft.Json.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Road.Flash.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\SqlDataProvider.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Game.Base.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Bussiness.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\Road.Flash.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\SqlDataProvider.pdb
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\bin\log4net.xml
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Gunny\Server\5.9\source 5.5\sourse5.5\Tank.Request\obj\Debug\Tank.Request.pdb
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Tank.Request.dll.config
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Tank.Request.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Tank.Request.pdb
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Bussiness.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\log4net.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Newtonsoft.Json.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Road.Flash.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\SqlDataProvider.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Game.Base.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Bussiness.pdb
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\Road.Flash.pdb
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\SqlDataProvider.pdb
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\bin\log4net.xml
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Gunny\Server\GUN VIP VL\sourse5.5\Tank.Request\obj\Debug\Tank.Request.pdb
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Tank.Request.dll.config
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Tank.Request.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Tank.Request.pdb
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Bussiness.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\log4net.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Road.Flash.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\SqlDataProvider.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Game.Base.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Bussiness.pdb
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Road.Flash.pdb
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\SqlDataProvider.pdb
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\log4net.xml
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\bin\Game.Base.pdb
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\obj\Debug\Tank.Request.csprojResolveAssemblyReference.cache
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\obj\Debug\Tank.Request.dll
+E:\Gunny\Server\Gunny 3.4\Server\Tank.Request\obj\Debug\Tank.Request.pdb

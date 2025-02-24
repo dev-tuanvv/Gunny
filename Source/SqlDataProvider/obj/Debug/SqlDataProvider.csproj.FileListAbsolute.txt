@@ -1,0 +1,44 @@
+C:\Users\cyberlink\Desktop\gunny 1\321\sql\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny 1\321\sql\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny 1\321\sql\obj\x86\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny 1\321\sql\obj\x86\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\Source 3.0\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\Source 3.0\SqlDataProvider\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\Source 3.0\SqlDataProvider\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\Source 3.0\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\Source 3.0\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project\SqlDataProvider\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project\SqlDataProvider\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\SqlDataProvider\bin\Debug\log4net.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\SqlDataProvider\bin\Debug\log4net.xml
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\cyberlink\Desktop\gunny project profix\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\bin\Debug\log4net.dll
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\bin\Debug\log4net.xml
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\Billy\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.csprojAssemblyReference.cache
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\bin\Debug\log4net.dll
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\bin\Debug\log4net.xml
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+C:\Users\HungML\Desktop\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.csprojResolveAssemblyReference.cache
+D:\19072018\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+D:\19072018\gunny project\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+D:\19072018\gunny project\SqlDataProvider\bin\Debug\log4net.dll
+D:\19072018\gunny project\SqlDataProvider\bin\Debug\log4net.xml
+D:\19072018\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+D:\19072018\gunny project\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
